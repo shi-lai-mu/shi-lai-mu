@@ -8,7 +8,7 @@
 - 可接 SAAS、OA、小程序、桌面应用端、Web端、TP5、2D游戏类开发 订单，至[Email](mailto:admin@slmblog.com)商务合作
 
 <div>
-  <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=shi-lai-mu&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&hide=less,scss,css,html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi-lai-mu&hide=less,scss,css,html" />
 </div>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shi-lai-mu&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
