@@ -4,7 +4,7 @@
 - 💬 WeChat: [shi_lai_mu](shi_lai_mu)
 - 📫 Ping me by [Email](mailto:admin@slmblog.com)
 - 周一至周五较忙，业余时间 [维护开源团队项目](https://github.com/wangeditor-team) 或 [自己开源项目](https://github.com/shi-lai-mu)
-- 可接 SAAS、OA、小程序、桌面应用端、Web端、TP5、2D游戏类开发 订单，至[Email](mailto:admin@slmblog.com)商务合作
+# - 可接 SAAS、OA、小程序、桌面应用端、Web端、TP5、2D游戏类开发 订单，至[Email](mailto:admin@slmblog.com)商务合作
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi-lai-mu&hide=less,scss,css,html" />
